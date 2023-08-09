@@ -277,73 +277,54 @@ p {
   </div>
 </section>
 
-
-<audio controls loop id="background-music">
-    <source src="your-music-file.mp3" type="audio/mpeg">
-    Your browser does not support the audio element.
-</audio>
-
-<section class="hero is-fullheight">
-  <!-- ... (rest of your content) ... -->
-</section>
-
-<script src='https://use.fontawesome.com/releases/v5.3.1/js/all.js'></script>
-<script>
-  window.addEventListener("mouseover", playAudio);
-  window.addEventListener("click", playAudio);
-
-  function playAudio() {
-    document.getElementById("background-music").play();
-  }
-</script>
-
-<script>
-  window.onload = () => {
-    const myInput = document.getElementById("dummyKeyboard");
-    myInput.onpaste = (e) => e.preventDefault();
-  };
-  const COMMANDS = {
-    help: 'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">youtube</span>,  <span class="code">contact</span>, <span class="code">website</span>',
-    about:
-    "Greetings! 👋<br>I go by Sabarinath, a 19-year-old Penetration Tester and Programmer currently residing in the enchanting land of Kerala, often referred to as 'God's Own Country'.",
-    skills:
-    '<span class="code">Skills:</span> Proficient in Ethical Hacking, Pen-Testing, Graphic Design and Tools Development, Modding PUBG Configs and Paks, Creating Engaging YouTube Content, and Exploring Electronics as a Hobby.<br>',
-    education:
-    "Embarked on a journey towards a B Tech in Triple E (Electrical & Electronics Engineering).",
-    experience:  "My wealth of experience is defined by the brilliance of my diligent efforts.",
-    youtube:
+  <script src='https://use.fontawesome.com/releases/v5.3.1/js/all.js'></script>
+  <script>
+    
+    window.onload = () => {
+  const myInput = document.getElementById("dummyKeyboard");
+  myInput.onpaste = (e) => e.preventDefault();
+};
+const COMMANDS = {
+  help: 'Supported commands: <span class="code">about</span>, <span class="code">experience</span>, <span class="code">education</span>, <span class="code">skills</span>, <span class="code">youtube</span>,  <span class="code">contact</span>, <span class="code">website</span>',
+  about:
+  "Greetings! 👋<br>I go by Sabarinath, a 19-year-old Penetration Tester and Programmer currently residing in the enchanting land of Kerala, often referred to as 'God's Own Country'.",
+  skills:
+  '<span class="code">Skills:</span> Proficient in Ethical Hacking, Pen-Testing, Graphic Design and Tools Development, Modding PUBG Configs and Paks, Creating Engaging YouTube Content, and Exploring Electronics as a Hobby.<br>',
+  education:
+  "Embarked on a journey towards a B Tech in Triple E (Electrical & Electronics Engineering).",
+  experience:  "My wealth of experience is defined by the brilliance of my diligent efforts."
+  youtube:
     "www.youtube.com/channel/TechPranthan",
-    contact:
+  contact:
     "You can contact me on any of following links:<br><a href='https://t.me/Sabaritechmod' class='success link'>Telegram</a>, <a href='https://www.instagram.com/sabarinath.____/' class='success link'>Instagram</a>, <a href='https://www.facebbok.com/sabarinath.parakkadavu/' class='success link'>Facebook</a>",
     website:
-    "https://www.techpranthan.in"
-  };
+     "https://www.techpranthan.in"
+};
 
-  const userInput = document.getElementById("userInput");
-  const terminalOutput = document.getElementById("terminalOutput");
-  const inputfield = document.getElementById("dummyKeyboard");
+const userInput = document.getElementById("userInput");
+const terminalOutput = document.getElementById("terminalOutput");
+const inputfield = document.getElementById("dummyKeyboard");
 
-  inputfield.addEventListener("keypress", (e) => {
-    if (e.key === "Enter") {
-      let input = e.target.value;
-      input = input.toLowerCase();
-      if (input.length === 0) {
-        return;
-      }
-      let output;
-      output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
-      if (!COMMANDS.hasOwnProperty(input)) {
-        output += `<div class="terminal-line">no such command: ${input}</div>`;
-        console.log("Oops! no such command");
-      } else {
-        output += COMMANDS[input];
-      }
-      terminalOutput.innerHTML = `${terminalOutput.innerHTML}<div class="terminal-line">${output}</div>`;
-      terminalOutput.scrollTop = terminalOutput.scrollHeight;
-      e.target.value = "";
+inputfield.addEventListener("keypress", (e) => {
+  if (e.key === "Enter") {
+    let input = e.target.value;
+    input = input.toLowerCase();
+    if (input.length === 0) {
+      return;
     }
-  });
-</script>
-
+    let output;
+    output = `<div class="terminal-line"><span class="success">➜</span> <span class="directory">~</span> ${input}</div>`;
+    if (!COMMANDS.hasOwnProperty(input)) {
+      output += `<div class="terminal-line">no such command: ${input}</div>`;
+      console.log("Oops! no such command");
+    } else {
+      output += COMMANDS[input];
+    }
+    terminalOutput.innerHTML = `${terminalOutput.innerHTML}<div class="terminal-line">${output}</div>`;
+    terminalOutput.scrollTop = terminalOutput.scrollHeight;
+    e.target.value = "";
+  }
+});
+  </script>
 </body>
 </html>
