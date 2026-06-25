@@ -1,7 +1,7 @@
 # Hi there! I'm Sabarinath S 👋 
 ### Electrical & Electronics Engineer | Android & IoT Developer | Tech Content Creator
 
-I thrive at the intersection of hardware and software, dedicating my time to building secure, innovative, and automated solutions. I am a B.Tech graduate in Electrical and Electronics Engineering with a passion for Android app optimization, embedded systems, and cybersecurity. 
+I am Sabari, a cybersecurity enthusiast and self-learned ethical hacker who loves cybersecurity as a hobby to continuously improve my skills. 
 
 Beyond coding, I run a growing tech community of **170K+ subscribers** across my YouTube channels, sharing knowledge on gaming optimization, performance benchmarking, and custom tool tutorials.
 
@@ -74,8 +74,10 @@ Beyond coding, I run a growing tech community of **170K+ subscribers** across my
 
 - 🛡️ **Certified Penetration Tester (CPT)** — *RedTeam Hacker Academy*  
   Specialized in Network/Web App Penetration Testing, VAPT, and Vulnerability Management. (Credential ID: `RTXSTU11917`)
+
 - 🏆 **Best Vehicle Engineering & Innovation Award** — *SAEINDIA Southern Section*  
   Awarded for engineering excellence in the 3rd Edition EFWDC at SASTRA University.
+
 - 📐 **Technical Training** — *AutoCAD & PCB Design*
 
 ---
@@ -85,7 +87,9 @@ Beyond coding, I run a growing tech community of **170K+ subscribers** across my
 I love building communities and sharing tech tutorials, optimization guides, and software guides. Let's connect!
 
 - 📺 [**Tech Pranthan (100K+ Subscribers)**](https://www.youtube.com/@Tech_Pranthan) — Custom Android tweaks, GFX configurations, and gaming optimization benchmarks.
+
 - 🎮 [**90 FPS + 120 FPS GFX (70K+ Subscribers)**](https://www.youtube.com/@tp.fps90) — Performance benchmarking and configuration distribution channel.
+
 - 🌐 [**Techpranthan.in**](https://techpranthan.in) — My official tech blog and mobile gaming optimization website.
 
 ---
@@ -93,7 +97,9 @@ I love building communities and sharing tech tutorials, optimization guides, and
 ### 📬 Get in Touch!
 
 - 💼 [LinkedIn](https://linkedin.com/in/sabarinath523)
+
 - 📧 [Email Me](mailto:sabarinath523@gmail.com)
+
 - 🐙 [GitHub Profile](https://github.com/sabarinathx)
 
 ---
