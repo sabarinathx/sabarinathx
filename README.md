@@ -80,16 +80,6 @@ Beyond coding, I run a growing tech community of **170K+ subscribers** across my
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabarinathx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sabarinath's GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathx&layout=compact&theme=tokyonight&hide_border=true" alt="Sabarinath's Top Languages" />
-</div>
-
----
-
 ### 📹 YouTube & Community Channels
 
 I love building communities and sharing tech tutorials, optimization guides, and software guides. Let's connect!
