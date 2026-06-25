@@ -1,8 +1,6 @@
 # Hi there! I'm Sabarinath S 👋 
 ### Electrical & Electronics Engineer | Android & IoT Developer | Tech Content Creator
-
 I am Sabari, a cybersecurity enthusiast and self-learned ethical hacker who loves cybersecurity as a hobby to continuously improve my skills. 
-
 Beyond coding, I run a growing tech community of **170K+ subscribers** across my YouTube channels, sharing knowledge on gaming optimization, performance benchmarking, and custom tool tutorials.
 
 ---
