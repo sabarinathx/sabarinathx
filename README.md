@@ -1,9 +1,14 @@
 # Hi there! I'm Sabarinath S 👋 
 ### Electrical & Electronics Engineer | Android & IoT Developer | Tech Content Creator
+
 I thrive at the intersection of hardware and software, dedicating my time to building secure, innovative, and automated solutions. I am a B.Tech graduate in Electrical and Electronics Engineering with a passion for Android app optimization, embedded systems, and cybersecurity. 
+
 Beyond coding, I run a growing tech community of **170K+ subscribers** across my YouTube channels, sharing knowledge on gaming optimization, performance benchmarking, and custom tool tutorials.
+
 ---
+
 ### 🛠️ Tech Stack & Skills
+
 <table>
   <tr>
     <td align="center" width="30%"><strong>Android & Software</strong></td>
@@ -34,52 +39,72 @@ Beyond coding, I run a growing tech community of **170K+ subscribers** across my
     </td>
   </tr>
 </table>
+
 ---
+
 ### 🚀 Featured Projects
-*   **🚗 EV ADAS & Driver Health Monitor**  
-    *An Integrated Driver Assistance System with Health Monitoring for Electric Vehicles.*
-    * Developed a working hardware prototype utilizing **Arduino UNO** and **ESP32** for real-time lane departure detection, obstacle sensing, and automated safety responses.
-    * Integrated health-tracking sensors monitoring driver drowsiness, heart rate, and blood pressure, with simulations for automatic emergency braking.
-    * [Live ADAS Dashboard](http://62.72.57.103/adas/login.html)
-    
-*   **⚡ IoT Smart Energy Meter**  
-    *A smart energy consumption monitor with cloud-integrated automated billing.*
-    * Engineered using embedded controllers to feed energy stats to the cloud for automated bill generation and visualization.
-    * [Live Energy Meter Dashboard](https://sset-energy.io/) | [Documentation Site](https://techpranthan.in)
-*   **📱 90 FPS + 120 FPS GFX Tool**  
-    *An Android utility app designed to unlock extreme performance modes in mobile games.*
-    * Achieved **1 Million+ downloads** on Google Play Store by implementing low-level performance tweaks.
-    * [Get it on Google Play Store](https://play.google.com/store/apps/details?id=tp.fps90)
-*   **🤖 Telegram FPS Unlocker Bot**  
-    *A Telegram-hosted VPS-automated bot helper.*
-    * Automates generation and real-time distribution of custom FPS configuration files on a Linux backend.
-    * [Try the Bot on Telegram](https://t.me/FPSUnlocker_bot)
-*   **🏠 Alexa & Google Home Smart Automation**  
-    *Home automation ecosystem driven by customized ESP32 C programming.*
+
+#### 🚗 EV ADAS & Driver Health Monitor
+*An Integrated Driver Assistance System with Health Monitoring for Electric Vehicles.*
+- Developed a working hardware prototype utilizing **Arduino UNO** and **ESP32** for real-time lane departure detection, obstacle sensing, and automated safety responses.
+- Integrated health-tracking sensors monitoring driver drowsiness, heart rate, and blood pressure, with simulations for automatic emergency braking.
+- **Link:** [Live ADAS Dashboard](http://62.72.57.103/adas/login.html)
+
+#### ⚡ IoT Smart Energy Meter
+*A smart energy consumption monitor with cloud-integrated automated billing.*
+- Engineered using embedded controllers to feed energy stats to the cloud for automated bill generation and visualization.
+- **Links:** [Live Energy Meter Dashboard](https://sset-energy.io/) | [Documentation Site](https://techpranthan.in)
+
+#### 📱 90 FPS + 120 FPS GFX Tool
+*An Android utility app designed to unlock extreme performance modes in mobile games.*
+- Achieved **1 Million+ downloads** on Google Play Store by implementing low-level performance tweaks.
+- **Link:** [Get it on Google Play Store](https://play.google.com/store/apps/details?id=tp.fps90)
+
+#### 🤖 Telegram FPS Unlocker Bot
+*A Telegram-hosted VPS-automated bot helper.*
+- Automates generation and real-time distribution of custom FPS configuration files on a Linux backend.
+- **Link:** [Try the Bot on Telegram](https://t.me/FPSUnlocker_bot)
+
+#### 🏠 Alexa & Google Home Smart Automation
+*Home automation ecosystem driven by customized ESP32 C programming.*
+
 ---
+
 ### 🏆 Certifications & Awards
-*   🛡️ **Certified Penetration Tester (CPT)** — *RedTeam Hacker Academy*  
-    Specialized in Network/Web App Penetration Testing, VAPT, and Vulnerability Management. (Credential ID: `RTXSTU11917`)
-*   🏆 **Best Vehicle Engineering & Innovation Award** — *SAEINDIA Southern Section*  
-    Awarded for engineering excellence in the 3rd Edition EFWDC at SASTRA University.
-*   📐 **Technical Training** — *AutoCAD & PCB Design*
+
+- 🛡️ **Certified Penetration Tester (CPT)** — *RedTeam Hacker Academy*  
+  Specialized in Network/Web App Penetration Testing, VAPT, and Vulnerability Management. (Credential ID: `RTXSTU11917`)
+- 🏆 **Best Vehicle Engineering & Innovation Award** — *SAEINDIA Southern Section*  
+  Awarded for engineering excellence in the 3rd Edition EFWDC at SASTRA University.
+- 📐 **Technical Training** — *AutoCAD & PCB Design*
+
 ---
+
 ### 📈 GitHub Stats
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sabarinathx&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Sabarinath's GitHub Stats" />
   &nbsp;&nbsp;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabarinathx&layout=compact&theme=tokyonight&hide_border=true" alt="Sabarinath's Top Languages" />
 </div>
+
 ---
+
 ### 📹 YouTube & Community Channels
+
 I love building communities and sharing tech tutorials, optimization guides, and software guides. Let's connect!
-*   📺 [**Tech Pranthan (100K+ Subscribers)**](https://www.youtube.com/@Tech_Pranthan) — Custom Android tweaks, GFX configurations, and gaming optimization benchmarks.
-*   🎮 [**90 FPS + 120 FPS GFX (70K+ Subscribers)**](https://www.youtube.com/@tp.fps90) — Performance benchmarking and configuration distribution channel.
-*   🌐 [**Techpranthan.in**](https://techpranthan.in) — My official tech blog and mobile gaming optimization website.
+
+- 📺 [**Tech Pranthan (100K+ Subscribers)**](https://www.youtube.com/@Tech_Pranthan) — Custom Android tweaks, GFX configurations, and gaming optimization benchmarks.
+- 🎮 [**90 FPS + 120 FPS GFX (70K+ Subscribers)**](https://www.youtube.com/@tp.fps90) — Performance benchmarking and configuration distribution channel.
+- 🌐 [**Techpranthan.in**](https://techpranthan.in) — My official tech blog and mobile gaming optimization website.
+
 ---
+
 ### 📬 Get in Touch!
-*   💼 [LinkedIn](https://linkedin.com/in/sabarinath523)
-*   📧 [Email Me](mailto:sabarinath523@gmail.com)
-*   🐙 [GitHub Profile](https://github.com/sabarinathx)
+
+- 💼 [LinkedIn](https://linkedin.com/in/sabarinath523)
+- 📧 [Email Me](mailto:sabarinath523@gmail.com)
+- 🐙 [GitHub Profile](https://github.com/sabarinathx)
+
 ---
 *“Building the bridge between hardware capabilities and software execution.”* 🚀
